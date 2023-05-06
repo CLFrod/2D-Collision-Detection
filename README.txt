@@ -1,6 +1,6 @@
-Goal: Create collision 2D collision detection system for Circles, Pentagons, Triangles, Squares.
+# 2D Collision Detection Speedrun
 
-Contraints: All shapes must described by their centroid.
-
-This archive contains the 8 files of the Speedrun, that is, this file (README.txt),
-the files UML Diagram for Speedrun.pdf, Shape.java, Pentagon.java, Triangle.java, Circle.java, Square.java, and Main.java.
+- Speedrun Goal: Create 2D collision detection system for Circles, Pentagons, Triangles, Squares.
+- Contraints: All shapes must described by their centroid.
+- Detects collisions between all set shapes
+- Will add 2D renderer to display the shapes
